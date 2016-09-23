@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-dingus
-=======
-
-<bingus>
->>>>>>> origin/master
